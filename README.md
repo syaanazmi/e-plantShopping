@@ -1,15 +1,17 @@
-# coding-project-template
 # e-plantShopping
 
 ## Project Overview
 
-e-plantShopping is a React-based plant shopping application that provides users with an interactive interface for exploring and shopping for plants.
+**e-plantShopping** is a React-based online plant shopping application called Paradise Nursery.
+
+The application allows users to explore and browse different plants, view plant information, and add their favourite plants to a shopping cart.
 
 ## Features
 
-- Browse plants available for purchase.
-- Explore a user-friendly shopping interface.
-- View plant products and interact with the application.
+- Landing page with a welcome message.
+- Navigation bar to access different sections.
+- Plants page to browse available plants.
+- Shopping cart to view selected items.
 
 ## Technologies Used
 
@@ -17,8 +19,8 @@ e-plantShopping is a React-based plant shopping application that provides users 
 - JavaScript
 - HTML
 - CSS
-- Vite
+- Redux Toolkit
 
 ## Purpose
 
-This project demonstrates the development of a plant shopping application using React and modern web development tools.
+This project demonstrates the development of an interactive e-commerce application using React and related web development technologies.
